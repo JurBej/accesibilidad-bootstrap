@@ -1,2 +1,2 @@
-# accesibilidad-bootstrap
-Proyecto basado en la accesibilidad de una página web. (Maquetación con Bootstrap)
+# Stride - Bootstrap 5 HTML template
+A simple but clean Bootstrap 5 HTML template from https://templatedeck.com
